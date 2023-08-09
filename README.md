@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @KanesKaewchui
-- 😃 I'm just getting started with game making.
-- 👀 I’m interested in Career Game Developer
-- 🌱 I’m currently learning C# Programming
-- 💞️ I’m looking to collaborate on People interested in making games
+- 😃 I just started with web building
+- 👀 I’m interested in Career Front-end develop
+- 🌱 I’m currently learning html css js react nodejs Bootstrap
 - 📫 How to reach me kaneskaewchui1@gmail.com
 
 <!---
